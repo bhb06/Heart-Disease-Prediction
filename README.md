@@ -65,6 +65,6 @@ Refer to the project report (`report/heart_disease_report`) for detailed insight
 
 ##   Authors
 
-Batoul Ballout - batoulballout96@gmail.com
-Rasha Harb - rashah.harb@gmail.com
-Razan Doughman - razan.doughman@gmail.com
+* Batoul Ballout - batoulballout96@gmail.com
+* Rasha Harb - rashah.harb@gmail.com
+* Razan Doughman - razan.doughman@gmail.com
